@@ -1,1 +1,2 @@
 this is second file
+i am updatig contents of file 2
